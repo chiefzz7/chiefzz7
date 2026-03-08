@@ -1,34 +1,32 @@
-Hi, I’m @chiefzz7
+Hi, I’m @chiefzz7 👋
 
 ![Flash Running](flash.gif)
 
-<h1 align="">  Samuel Ramos </h1>
+## Samuel Ramos
+<strong>Software Developer | Backend Developer | DevOps & Cloud Learner</strong>
 
-<p align="">
-  <strong>Software Developer | Backend Developer | DevOps & Cloud Learner</strong>
-</p>
 
 ---
 
 ## 🛠 Stack
 
 ### Backend
-<p align="">
+
   <img src="https://skillicons.dev/icons?i=nodejs,java,php,python,express&perline=6" />
 </p>
 
 ### Database
-<p align="">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo&perline=6" />
 </p>
 
 ### Frontend
-<p align="">
+<p>
   <img src="https://skillicons.dev/icons?i=vite,react,tailwind&perline=6" />
 </p>
 
 ### DevOps & Infra
-<p align="">
+<p>
   <img src="https://skillicons.dev/icons?i=linux,git,docker,aws,nginx&perline=6" />
 </p>
 
