@@ -29,7 +29,7 @@ Hi, I’m @chiefzz7
 
 ### DevOps & Infra
 <p align="">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws&perline=6" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,aws,nginx&perline=6" />
 </p>
 
 ---
@@ -68,3 +68,5 @@ Hi, I’m @chiefzz7
 
 📧 Email: sr1882939@gmail.com  
 🌎 GitHub: https://github.com/chiefzz7
+
+![Profile views](https://komarev.com/ghpvc/?username=chiefzz7&color=blue)
