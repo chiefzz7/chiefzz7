@@ -1,4 +1,4 @@
-Hi, I’m @chiefzz7 👋
+Hi, I’m chiefzz7 or Samuel Ramos 👋
 
 ![Flash Running](flash.gif)
 
@@ -8,11 +8,11 @@ Hi, I’m @chiefzz7 👋
 
 ---
 
-## 🛠 Stack
+## 🛠 Stack´s
 
 ### Backend
 
-  <img src="https://skillicons.dev/icons?i=nodejs,java,php,python,express&perline=6" />
+  <img src="https://skillicons.dev/icons?i=typescript,nodejs,java,php,python,express,spring&perline=6" />
 </p>
 
 ### Database
@@ -27,7 +27,7 @@ Hi, I’m @chiefzz7 👋
 
 ### DevOps & Infra
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,docker,aws,nginx&perline=6" />
+  <img src="https://skillicons.dev/icons?i=linux,git,aws,vercel&perline=6" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ Hi, I’m @chiefzz7 👋
 
 # 🧠 Atualmente estudando
 
-- NodeJS,  Express, Java & Spring Boot
+- NodeJS/TypeScript,  Express, Java & Spring Boot
 - Vite, React & TailwindCSS
 - APIs REST, MQTT & WebSocket
 - MySQL, PostgreSQL & MongoDB
