@@ -12,7 +12,7 @@ Hi, I’m chiefzz7 or Samuel Ramos 👋
 
 ### Backend
 
-  <img src="https://skillicons.dev/icons?i=typescript,nodejs,java,php,python,express,spring&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,php,python,express,spring&perline=8" />
 </p>
 
 ### Database
@@ -22,12 +22,12 @@ Hi, I’m chiefzz7 or Samuel Ramos 👋
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=vite,react,tailwind&perline=6" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,vite,react,tailwind&perline=6" />
 </p>
 
 ### DevOps & Infra
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,aws,vercel&perline=6" />
+  <img src="https://skillicons.dev/icons?i=linux,git,aws,vercel,docker&perline=6" />
 </p>
 
 ---
