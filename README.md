@@ -5,7 +5,6 @@ Hi, I’m chiefzz7 or Samuel Ramos 👋
 ## Samuel Ramos
 <strong>Software Developer | Backend Developer | DevOps & Cloud Learner</strong>
 
-
 ---
 
 ## 🛠 Stack´s
