@@ -54,10 +54,10 @@ Hi, I’m chiefzz7 or Samuel Ramos 👋
 
 # 🧠 Atualmente estudando
 
-- NodeJS/TypeScript,  Express, Java & Spring Boot
-- Vite, React & TailwindCSS
+- NodeJS, Express, Java & Spring Boot
+- Typescript, Vite, React & TailwindCSS
 - APIs REST, MQTT & WebSocket
-- MySQL, PostgreSQL & MongoDB
+- MySQL & PostgreSQL
 - AWS, CI/CD, Linux & Docker
 
 ---
